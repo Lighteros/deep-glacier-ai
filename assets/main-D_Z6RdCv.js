@@ -107,7 +107,7 @@ const l_ = (r) => (Ct("data-v-40460f83"), (r = r()), Tt(), r),
   ),
   C_ = { class: "flex items-center justify-center gap-3 mt-8" },
   T_ = { href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000", target: "_blank", class: "flex" },
-  M_ = { href: "https://quietstainer-document-0.gitbook.io/deepglacier-ai", target: "_blank", class: "flex" },
+  M_ = { href: "https://docs.deepglacierai.pro", target: "_blank", class: "flex" },
   D_ = Er(() =>
     b(
       "div",
@@ -743,7 +743,7 @@ const w1 = ft(g1, [
   ),
   P1 = { class: "flex items-center justify-center gap-3 mt-5" },
   k1 = {
-    href: "https://deep-glacier-ai-app-cs.vercel.app",
+    href: "https://app.deepglacierai.pro",
     target: "_blank",
     class: "flex",
   },
@@ -881,7 +881,7 @@ const w1 = ft(g1, [
   ),
   e2 = { class: "flex items-center justify-center gap-3 mt-5" },
   r2 = {
-    href: "https://deep-glacier-ai-app-cs.vercel.app",
+    href: "https://app.deepglacierai.pro",
     target: "_blank",
     class: "flex",
   },
@@ -1013,7 +1013,7 @@ const w1 = ft(g1, [
   ),
   S2 = { class: "flex items-center justify-center gap-3 mt-5" },
   C2 = {
-    href: "https://deep-glacier-ai-app-cs.vercel.app",
+    href: "https://app.deepglacierai.pro",
     target: "_blank",
     class: "flex",
   },
@@ -1540,7 +1540,7 @@ const Yx = ft(zx, [["render", Ux]]),
         b(
           "a",
           {
-            href: "https://quietstainer-document-0.gitbook.io/deepglacier-ai",
+            href: "https://docs.deepglacierai.pro",
             target: "_blank",
             class: "program-btn transition",
           },
@@ -31352,10 +31352,10 @@ const Ld = { render: yP },
     )
   ),
   ak = { class: "flex items-center justify-center gap-3 mt-5" },
-  ok = { href: "https://deep-glacier-ai-app-cs.vercel.app", target: "_blank", class: "flex" },
+  ok = { href: "https://app.deepglacierai.pro", target: "_blank", class: "flex" },
   sk = Rr(() => b("span", null, "Launch App", -1)),
   lk = {
-    href: "https://quietstainer-document-0.gitbook.io/deepglacier-ai",
+    href: "https://docs.deepglacierai.pro",
     target: "_blank",
     class: "flex",
   },
@@ -31942,10 +31942,10 @@ const RE = { render: EE },
     class:
       "flex flex-col md:flex-row items-center justify-center gap-3 mt-5 mb-24",
   },
-  ZE = { href: "https://deep-glacier-ai-app-cs.vercel.app", target: "_blank", class: "flex" },
+  ZE = { href: "https://app.deepglacierai.pro", target: "_blank", class: "flex" },
   qE = sn(() => b("span", null, "Launch App", -1)),
   jE = {
-    href: "https://quietstainer-document-0.gitbook.io/deepglacier-ai",
+    href: "https://docs.deepglacierai.pro",
     target: "_blank",
     class: "flex",
   },

@@ -757,7 +757,7 @@ const ss = { render: rs },
     class: "text-gray-400 hover:text-white",
   },
   bs = { class: "w-40 hidden md:flex justify-end" },
-  xs = { href: "https://deep-glacier-ai-app-cs.vercel.app/", target: "_blank" },
+  xs = { href: "https://app.deepglacierai.pro/", target: "_blank" },
   vs = we(() => l("span", null, "Launch App", -1)),
   As = we(() =>
     l(
@@ -808,7 +808,7 @@ const ss = { render: rs },
             ],
           },
           { title: "Ecosystem", href: "/eco" },
-          { title: "Document", href: "https://quietstainer-document-0.gitbook.io/deepglacier-ai" },
+          { title: "Document", href: "https://docs.deepglacierai.pro" },
           {
             title: "DGAI Token",
             children: [
@@ -1278,7 +1278,7 @@ const Zs = { render: Qs },
     )
   ),
   lo = {
-    href: "https://deep-glacier-ai-app-cs.vercel.app",
+    href: "https://app.deepglacierai.pro",
     target: "_blank",
     class: "inline-flex mt-5",
   },
