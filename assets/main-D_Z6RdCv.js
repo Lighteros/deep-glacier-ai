@@ -106,8 +106,8 @@ const l_ = (r) => (Ct("data-v-40460f83"), (r = r()), Tt(), r),
     3
   ),
   C_ = { class: "flex items-center justify-center gap-3 mt-8" },
-  T_ = { href: "https://node.glacier.io/", target: "_blank", class: "flex" },
-  M_ = { href: "https://docs.glacier.io/", target: "_blank", class: "flex" },
+  T_ = { href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000", target: "_blank", class: "flex" },
+  M_ = { href: "https://quietstainer-document-0.gitbook.io/deepglacier-ai", target: "_blank", class: "flex" },
   D_ = Er(() =>
     b(
       "div",
@@ -180,10 +180,10 @@ const l_ = (r) => (Ct("data-v-40460f83"), (r = r()), Tt(), r),
     )
   ),
   O_ = { class: "mt-8 flex flex-col md:flex-row gap-5" },
-  B_ = { href: "https://youtu.be/zfxURf0O8os", target: "_blank" },
-  N_ = Er(() => b("span", null, "Demo in Terminal", -1)),
-  F_ = { href: "https://youtu.be/b6GOxHS6El8", target: "_blank" },
-  $_ = Er(() => b("span", null, "Demo in Browser", -1)),
+  B_ = { href: "hhttps://x.com/DeepGlacier_AI", target: "_blank" },
+  N_ = Er(() => b("span", null, "Follow X", -1)),
+  F_ = { href: "https://t.me/DeepGlacier_Community", target: "_blank" },
+  $_ = Er(() => b("span", null, "Join Community", -1)),
   z_ = Er(() => b("img", { src: g_, class: "max-w-[612px] w-full" }, null, -1)),
   H_ = st({
     __name: "HomeTop",
@@ -202,7 +202,7 @@ const l_ = (r) => (Ct("data-v-40460f83"), (r = r()), Tt(), r),
                   W(
                     $t,
                     { "show-icon": "" },
-                    { default: Et(() => [jt("Run Nodes")]), _: 1 }
+                    { default: Et(() => [jt("Buy DGAI")]), _: 1 }
                   ),
                 ]),
                 b("a", M_, [
@@ -307,11 +307,7 @@ const l_ = (r) => (Ct("data-v-40460f83"), (r = r()), Tt(), r),
           intro:
             "Handle datasets seamlessly and effortlessly on permanent storages",
           image: V_,
-          links: [
-            { text: "Arweave", href: "/ar" },
-            { text: "Greenfield", href: "/bnb" },
-            { text: "Filecoin", href: "/filecoin" },
-          ],
+          links: [{ text: "Database Info is Coming Soon", href: "" }],
         },
         {
           title: "DeepGlacierDA",
@@ -393,8 +389,8 @@ const l_ = (r) => (Ct("data-v-40460f83"), (r = r()), Tt(), r),
       "div",
       { class: "text-center text-2xl md:text-5xl font-display mt-6" },
       [
-        b("div", null, "Enabling Development"),
-        b("div", { class: "linear-text" }, "Across Diverse User Bases"),
+        b("div", null, "Tokenomics"),
+        b("div", { class: "linear-text" }, "DeepGlacier AI"),
       ],
       -1
     )
@@ -410,20 +406,20 @@ const l_ = (r) => (Ct("data-v-40460f83"), (r = r()), Tt(), r),
     __name: "HomeGrowth",
     setup(r) {
       const t = re([
-        { name: "Data Queries", value: "-" },
-        { name: "Transaction", value: "-" },
-        { name: "Collections", value: "-" },
-        { name: "Datasets", value: "-" },
-        { name: "Addresses", value: "-" },
+        { name: "Symbol", value: "-" },
+        { name: "Total Supply", value: "-" },
+        { name: "Liquidity Pool", value: "-" },
+        { name: "Buy/Sell Tax", value: "-" },
+        { name: "Ownership", value: "-" },
       ]);
       return (
         pa(async () => {
           const e = await r_();
-          (t.value[0].value = "10Billion+"),
-            (t.value[1].value = e.txOnChain.toLocaleString("en-us")),
-            (t.value[2].value = e.totalCollections.toLocaleString("en-us")),
-            (t.value[3].value = e.totalDatasets.toLocaleString("en-us")),
-            (t.value[4].value = e.totalAddress.toLocaleString("en-us"));
+            (t.value[0].value = "DGAI"),
+            (t.value[1].value = "1 Billion"),
+            (t.value[2].value = "LP Burned"),
+            (t.value[3].value = "0% Tax"),
+            (t.value[4].value = "Renounced");
         }),
         (e, i) => (
           B(),
@@ -747,7 +743,7 @@ const w1 = ft(g1, [
   ),
   P1 = { class: "flex items-center justify-center gap-3 mt-5" },
   k1 = {
-    href: "https://playground.bnb.glacier.io/",
+    href: "https://deep-glacier-ai-app-cs.vercel.app",
     target: "_blank",
     class: "flex",
   },
@@ -885,7 +881,7 @@ const w1 = ft(g1, [
   ),
   e2 = { class: "flex items-center justify-center gap-3 mt-5" },
   r2 = {
-    href: "https://playground.ar.glacier.io/",
+    href: "https://deep-glacier-ai-app-cs.vercel.app",
     target: "_blank",
     class: "flex",
   },
@@ -1017,7 +1013,7 @@ const w1 = ft(g1, [
   ),
   S2 = { class: "flex items-center justify-center gap-3 mt-5" },
   C2 = {
-    href: "https://playground.bnb.glacier.io/",
+    href: "https://deep-glacier-ai-app-cs.vercel.app",
     target: "_blank",
     class: "flex",
   },
@@ -1527,11 +1523,11 @@ const Yx = ft(zx, [["render", Ux]]),
     class: "flex flex-col md:flex-row items-center justify-center gap-3 mt-5",
   },
   pw = {
-    href: "https://docs.google.com/forms/d/e/1FAIpQLSdkIfVEiQ8BkGPHvnaqHI9NeojaQSRHIveSw_qDR55OFbkHIw/viewform?usp=sf_link",
+    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
     target: "_blank",
   },
-  gw = Ji(() => b("span", null, "Submit Your Project", -1)),
-  mw = { href: "https://dorahacks.io/mini-grant/14/detail", target: "_blank" },
+  gw = Ji(() => b("span", null, "Buy On Uniswap", -1)),
+  mw = { href: "https://etherscan.io/token/0x00000000000000000000000000000000000000", target: "_blank" },
   _w = Ji(() => b("div", { class: "banner-bg" }, null, -1)),
   yw = Ji(() => b("div", { class: "shadow-box" }, [b("img", { src: Qo })], -1)),
   xw = { class: "px-5" },
@@ -1544,11 +1540,11 @@ const Yx = ft(zx, [["render", Ux]]),
         b(
           "a",
           {
-            href: "https://docs.google.com/forms/d/e/1FAIpQLSf5PM-0PEB17MxdW5fm6mU0j-waAEMXmAUCdPycgT9_psRKDA/viewform?usp=sf_link",
+            href: "https://quietstainer-document-0.gitbook.io/deepglacier-ai",
             target: "_blank",
             class: "program-btn transition",
           },
-          [b("span", null, "Apply for Grant Program"), b("img", { src: cw })]
+          [b("span", null, "Read Document"), b("img", { src: cw })]
         ),
       ],
       -1
@@ -1626,7 +1622,7 @@ const Yx = ft(zx, [["render", Ux]]),
                   ]),
                   b("a", mw, [
                     W($t, null, {
-                      default: Et(() => [jt(" Join Grant Program ")]),
+                      default: Et(() => [jt(" Contract Address ")]),
                       _: 1,
                     }),
                   ]),
@@ -31356,10 +31352,10 @@ const Ld = { render: yP },
     )
   ),
   ak = { class: "flex items-center justify-center gap-3 mt-5" },
-  ok = { href: "https://node.glacier.io/", target: "_blank", class: "flex" },
-  sk = Rr(() => b("span", null, "Run Your Nodes", -1)),
+  ok = { href: "https://deep-glacier-ai-app-cs.vercel.app", target: "_blank", class: "flex" },
+  sk = Rr(() => b("span", null, "Launch App", -1)),
   lk = {
-    href: "https://docs.glacier.io/getting-started/glacier-nodes/run-mainnet-nodes/nodes-portal-tutorial",
+    href: "https://quietstainer-document-0.gitbook.io/deepglacier-ai",
     target: "_blank",
     class: "flex",
   },
@@ -31946,10 +31942,10 @@ const RE = { render: EE },
     class:
       "flex flex-col md:flex-row items-center justify-center gap-3 mt-5 mb-24",
   },
-  ZE = { href: "https://node.glacier.io/", target: "_blank", class: "flex" },
-  qE = sn(() => b("span", null, "Run Your Nodes", -1)),
+  ZE = { href: "https://deep-glacier-ai-app-cs.vercel.app", target: "_blank", class: "flex" },
+  qE = sn(() => b("span", null, "Launch App", -1)),
   jE = {
-    href: "https://docs.glacier.io/getting-started/glacier-nodes/run-mainnet-nodes/nodes-portal-tutorial",
+    href: "https://quietstainer-document-0.gitbook.io/deepglacier-ai",
     target: "_blank",
     class: "flex",
   },
@@ -32032,7 +32028,7 @@ const RE = { render: EE },
           "text-center text-3xl md:text-[64px] leading-[1.1em] font-display mt-12",
       },
       [
-        b("div", null, "DeepGlacier Network $GLS"),
+        b("div", null, "DeepGlacier Network $DGAI"),
         b("div", { class: "linear-text" }, "The Core of the DeepGlacier Ecosystem"),
       ],
       -1
@@ -32042,7 +32038,7 @@ const RE = { render: EE },
     b(
       "div",
       { class: "text-center mt-3 text-white/80 text-sm md:text-xl px-5" },
-      " $GLS is currently listed and live on multiple networks, DEX and CEX. ",
+      " $DGAI is currently listed and live on multiple networks, DEX and CEX. ",
       -1
     )
   ),
@@ -32055,7 +32051,7 @@ const RE = { render: EE },
   _4 = ["src"],
   y4 = ["innerHTML"],
   x4 = st({
-    __name: "BuyGls",
+    __name: "Buy DGAI",
     setup(r) {
       const t = [
         {

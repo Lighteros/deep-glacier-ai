@@ -757,8 +757,8 @@ const ss = { render: rs },
     class: "text-gray-400 hover:text-white",
   },
   bs = { class: "w-40 hidden md:flex justify-end" },
-  xs = { href: "https://node.glacier.io/", target: "_blank" },
-  vs = we(() => l("span", null, "DeepGlacier Nodes", -1)),
+  xs = { href: "https://deep-glacier-ai-app-cs.vercel.app/", target: "_blank" },
+  vs = we(() => l("span", null, "Launch App", -1)),
   As = we(() =>
     l(
       "span",
@@ -788,6 +788,12 @@ const ss = { render: rs },
             title: "DeepGlacierAI",
             children: [
               {
+                title: "DeepGlacierDA",
+                desc: "Check out DA",
+                icon: j(ss),
+                href: "/da",
+              },
+              {
                 title: "VectorDB",
                 desc: "Decentralized vectorDB",
                 icon: j(Zr),
@@ -795,85 +801,43 @@ const ss = { render: rs },
               },
               {
                 title: "Verifier Nodes",
-                desc: "Earn GLS on Mainnet",
+                desc: "Earn DGAI on Mainnet",
                 icon: j(ss),
                 href: "/nodes",
               },
             ],
           },
-          {
-            title: "DeepGlacierDB",
-            children: [
-              {
-                title: "Arweave",
-                desc: "Build for permanent",
-                icon: j(tr),
-                href: "/ar",
-              },
-              {
-                title: "Greenfield",
-                desc: "Engage in BNB ecosystem",
-                icon: j(ir),
-                href: "/bnb",
-              },
-              {
-                title: "Filecoin",
-                desc: "Enter the power of FVM",
-                icon: j(Ar),
-                href: "/filecoin",
-              },
-            ],
-          },
           { title: "Ecosystem", href: "/eco" },
+          { title: "Document", href: "https://quietstainer-document-0.gitbook.io/deepglacier-ai" },
           {
-            title: "Developers",
+            title: "DGAI Token",
             children: [
               {
-                title: "DeepGlacierDA",
-                desc: "Data availability layer",
-                icon: j(Kn),
-                href: "/da",
+                title: "Etherscan",
+                href: "https://etherscan.io/token/0x00000000000000000000000000000000000000",
               },
               {
-                title: "Tech docs",
-                desc: "SDK for developers",
-                icon: j(Br),
-                href: "https://sdk.glacier.io/",
+                title: "Dextools",
+                href: "https://www.dextools.io/app/en/ether/pool-explorer/0x00000000000000000000000000000000000000",
               },
               {
-                title: "GitHub",
-                desc: "Code hub to build",
-                icon: j(Or),
-                href: "https://github.com/glacier-labs",
+                title: "Dexscreener",
+                href: "https://dexscreener.com/ethereum/0x0123456789",
               },
             ],
           },
           {
-            title: "Resources",
+            title: "Community",
             children: [
               {
-                title: "Whitepaper",
-                desc: "In depth blueprint",
-                icon: j(Lr),
-                href: "https://docsend.com/view/83c74bw4dvb6mwzj",
+                title: "Twitter",
+                desc: "Follow X",
+                href: "https://x.com/DeepGlacier_AI",
               },
               {
-                title: "Documentation",
-                desc: "Everything about DeepGlacier",
-                icon: j(dr),
-                href: "http://docs.glacier.io/",
-              },
-              {
-                title: "Dune",
-                desc: "Onchain data traction",
-                icon: j(_r),
-                href: "https://dune.com/glacier-network/data",
-              },
-              {
-                title: "Dashboard",
-                desc: "Data model dashboard",
-                icon: j(Wr),
-                href: "/dashboard",
+                title: "Telegram",
+                desc: "Join Community",
+                href: "https://t.me/DeepGlacier_Communitys",
               },
             ],
           },
@@ -910,21 +874,6 @@ const ss = { render: rs },
                           onClick: s,
                         },
                         cs
-                      ),
-                    ]),
-                    l("div", ls, [
-                      z(
-                        c,
-                        { to: "/buygls" },
-                        {
-                          default: W(() => [
-                            z(He, null, {
-                              default: W(() => [pe(" Buy GLS ")]),
-                              _: 1,
-                            }),
-                          ]),
-                          _: 1,
-                        }
                       ),
                     ]),
                     l("div", us, [
@@ -1034,11 +983,6 @@ const ss = { render: rs },
                         ),
                         64
                       )),
-                    ]),
-                    l("div", ws, [
-                      l("a", _s, [z(q(on))]),
-                      l("a", gs, [z(q(dn))]),
-                      l("a", ys, [z(q(en))]),
                     ]),
                     l("div", bs, [
                       l("a", xs, [
@@ -1211,10 +1155,8 @@ const ss = { render: rs },
   }),
   Vi = Je(Ts, [["__scopeId", "data-v-56e7b548"]]),
   ct = [
-    { title: "Twitter", href: "https://twitter.com/Glacier_Labs" },
-    { title: "Telegram", href: "https://t.me/glacier_labs" },
-    { title: "Discord", href: "https://discord.gg/eYAGGz5W3b" },
-    { title: "Medium", href: "https://medium.com/@glacierlabs" },
+    { title: "Twitter", href: "https://x.com/DeepGlacier_AI" },
+    { title: "Telegram", href: "https://t.me/DeepGlacier_Community" },
   ],
   Ms = {
     xmlns: "http://www.w3.org/2000/svg",
@@ -1336,7 +1278,7 @@ const Zs = { render: Qs },
     )
   ),
   lo = {
-    href: "https://playground.bnb.glacier.io/",
+    href: "https://deep-glacier-ai-app-cs.vercel.app",
     target: "_blank",
     class: "inline-flex mt-5",
   },
@@ -1362,30 +1304,18 @@ const Zs = { render: Qs },
           {
             title: "Products",
             items: [
-              { title: "DeepGlacierDB on Arweave", href: "/ar" },
-              { title: "DeepGlacierDB on Greenfield", href: "/bnb" },
-              { title: "DeepGlacierDB on Filecoin", href: "/filecoin" },
               { title: "DeepGlacierAI", href: "/ai" },
               { title: "DeepGlacierDA", href: "/da" },
+              { title: "Ecosystem", href: "/eco" },
             ],
           },
           {
-            title: "Developers",
+            title: "DGAI Token",
             items: [
-              { title: "Tech Docs", href: "https://sdk.glacier.io/" },
-              { title: "GitHub", href: "https://github.com/glacier-labs" },
-            ],
-          },
-          {
-            title: "Resources",
-            items: [
-              {
-                title: "Whitepaper",
-                href: "https://docsend.com/view/83c74bw4dvb6mwzj",
-              },
-              { title: "Documentation", href: "http://docs.glacier.io/" },
-              { title: "Dune", href: "https://dune.com/glacier-network/data" },
-              { title: "Dashboard", href: "/dashboard" },
+              { title: "Etherscan", href: "https://etherscan.io/token/0x00000000000000000000000000000000000000" },
+              { title: "Uniswap", href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000" },
+              { title: "Dexscreener", href: "https://dexscreener.com/ethereum/0x0123456789" },
+              { title: "Dextools", href: "https://www.dextools.io/app/en/ether/pool-explorer/0x00000000000000000000000000000000000000" },
             ],
           },
           { title: "Community", items: ct },
