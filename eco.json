@@ -1,0 +1,590 @@
+[
+  {
+    "id": 1,
+    "title": "Babylon",
+    "tag": "Middleware",
+    "intro": "Babylon designs security protocols that scale Bitcoin to secure the decentralized world, allowing bitcoin holders to stake their idle bitcoins to for security and yield."
+  },
+  {
+    "id": 2,
+    "title": "PublicAI",
+    "tag": "GenAI",
+    "intro": "PublicAI is a distributed AI network enables every human: contribute to AI and share the benefits that connects businesses and individuals with a global network of workers."
+  },
+  {
+    "id": 3,
+    "title": "Base",
+    "tag": "Blockchain",
+    "intro": "Base is an Ethereum Layer 2 blockchain, launched by Coinbase. It enhances scalability, transaction speed, and supports application development, all without replacing the existing Ethereum chain."
+  },
+  {
+    "id": 4,
+    "title": "SPACE ID",
+    "tag": "Identity",
+    "intro": "SPACE ID is the One Place for Digital Identities: SPACE ID is building a hub for you to discover, register, trade and manage web3 domains in one stop."
+  },
+  {
+    "id": 5,
+    "title": "BNB Chain",
+    "tag": "Blockchain",
+    "intro": "BNB Chain is a community-driven blockchain ecosystem of Layer-1 and Layer-2 scaling solutions, a global, decentralized network with developers, validators, users, HODLers and enthusiasts."
+  },
+  {
+    "id": 6,
+    "title": "Arweave",
+    "tag": "Storage Layers",
+    "intro": "The ecosystem of the Arweave protocol: Arweave protocol is the first truly permanent information storage network, backed by a sustainable endowment."
+  },
+  {
+    "id": 7,
+    "title": "Filecoin",
+    "tag": "Storage Layers",
+    "intro": "Filecoin is a peer-to-peer network that allows anyone to store and retrieve data on the internet. Built-in economic incentives ensure that files are stored and retrieved reliably and continuously."
+  },
+  {
+    "id": 8,
+    "title": "Berkeley Xcelerator",
+    "tag": "Grants & Awards",
+    "intro": "Berkeley Blockchain Xcelerator is launched in January 2019 as a joint venture between Berkeley’s Haas School of Business, SCET of Berkeley Engineering, and Blockchain at Berkeley."
+  },
+  {
+    "id": 9,
+    "title": "MoveSpace",
+    "tag": "GenAI",
+    "intro": "MoveSpace is a Web 3 AI Powerhouse, utilizing decentralized solutions to power on-chain data labeling, data monetization, AI-powered search, AIGC & AI-based UGC, NFT, and gaming use cases."
+  },
+  {
+    "id": 10,
+    "title": "Nimble Network",
+    "tag": "GenAI",
+    "intro": "The first open AI platform building the AI sharing economy—with all the tools you need to build, own, and monetize AI agents."
+  },
+  {
+    "id": 11,
+    "title": "Inferium",
+    "tag": "GenAI",
+    "intro": "Inferium empowers developers to seamlessly verify, list and enjoy inference on their AI models, while users gain streamlined access to the most optimal model through aggregation."
+  },
+  {
+    "id": 12,
+    "title": "Laika AI",
+    "tag": "GenAI",
+    "intro": "Laika AI is developing an on-chain data layer for AI & offering advanced AI solutions, empowering with advanced on-chain data analytics, designed and optimized for web3 and blockchain."
+  },
+  {
+    "id": 13,
+    "title": "Openfabric AI",
+    "tag": "GenAI",
+    "intro": "Openfabric AI is a planetary-scale network for building & connecting AI applications, a suite of AI tools tailored to meet the dynamic needs of today's modern world."
+  },
+  {
+    "id": 14,
+    "title": "Unstoppable Domains",
+    "tag": "Identity",
+    "intro": "Unstoppable Domains is the One Place for All Domains, bringing unity and standardization to the domain purchase and management process, saving time simplifying the digital journey."
+  },
+  {
+    "id": 15,
+    "title": "Metakraft AI",
+    "tag": "GenAI",
+    "intro": "Unlock limitless creativity with Metakraft AI – the First GenAI Powered Application Layer for Krafting Immersive Stories."
+  },
+  {
+    "id": 16,
+    "title": "Celestia",
+    "tag": "Middleware",
+    "intro": "Celestia is a modular data availability (DA) network that securely scales with the number of users, making it easy for anyone to launch their own blockchain."
+  },
+  {
+    "id": 17,
+    "title": "Dmail",
+    "tag": "Dapps",
+    "intro": "Dmail Network is building an AI-powered decentralized infrastructure which provides seamless, anonymous messaging and notification services across multiple chain."
+  },
+  {
+    "id": 18,
+    "title": "Polyhedra",
+    "tag": "Middleware",
+    "intro": "Polyhedra is empowering interoperability and computation via ZK, bringing interoperability and scalability to Web3 with cutting-edge zero-knowledge proof systems."
+  },
+  {
+    "id": 19,
+    "title": "EigenLayer",
+    "tag": "Middleware",
+    "intro": "EigenLayer is a protocol built on Ethereum that introduces restaking, a new primitive in cryptoeconomic security. This primitive enables the reuse of ETH on the consensus layer."
+  },
+  {
+    "id": 20,
+    "title": "Ritual",
+    "tag": "GenAI",
+    "intro": "Ritual is building a way for any protocol, application, or smart contract to integrate AI models with a few lines of code."
+  },
+  {
+    "id": 21,
+    "title": "Solana",
+    "tag": "Blockchain",
+    "intro": "Solana is a blockchain built for mass adoption, fast, composable, green, and globally distributed, supporting experiences for power users, new consumers, and everyone in between."
+  },
+  {
+    "id": 22,
+    "title": "Aptos",
+    "tag": "Blockchain",
+    "intro": "Aptos has been developed across the globe, offering new and novel innovations in consensus, smart contract design, system security, performance, and decentralization."
+  },
+  {
+    "id": 23,
+    "title": "Talus",
+    "tag": "GenAI",
+    "intro": "Talus is building a transparent, censorship-resistant ecosystem where fully onchain AI Agents can collaborate in web3."
+  },
+  {
+    "id": 24,
+    "title": "Rivalz Network",
+    "tag": "GenAI",
+    "intro": "Rivalz Network is the World Abstraction Layer for AI and AI Agents, powered by a dual-chain infrastructure with Arbitrum."
+  },
+  {
+    "id": 25,
+    "title": "ZkAGI",
+    "tag": "GenAI",
+    "intro": "ZkAGI is pioneering privacy AI with decentralized infrastructure (DePIN), built for autonomous and sovereign entrepreneurs."
+  },
+  {
+    "id": 26,
+    "title": "KOLZ",
+    "tag": "GenAI",
+    "intro": "A cutting-edge Web3 influencer platform designed to bridge the gap between leading influencers in the cryptocurrency and blockchain space (known as KOLs - Key Opinion Leaders) and their followers."
+  },
+  {
+    "id": 27,
+    "title": "SoonChain",
+    "tag": "GenAI",
+    "intro": "SoonChain is an AI-powered gaming L2, redefining game development with AIGG."
+  },
+  {
+    "id": 28,
+    "title": "Aggregata",
+    "tag": "GenAI",
+    "intro": "Pioneering data technology to build superintelligence and ensure its superalignment, two of the most important technical challenges of our time."
+  },
+  {
+    "id": 29,
+    "title": "NeuroMesh",
+    "tag": "GenAI",
+    "intro": "Distributed training network for large AI models. World’s Largest AI model, trained by everyone, for everyone."
+  },
+  {
+    "id": 30,
+    "title": "Unibase",
+    "tag": "GenAI",
+    "intro": "Unibase is Cooking the First AI-Native, Ethereum-Secured storage and DA Extension Layer on Ethereum."
+  },
+  {
+    "id": 31,
+    "title": "Autonomys AI",
+    "tag": "GenAI",
+    "intro": "Build super dApps and on-chain agents on our hyper-scalable storage, compute & consensus DePIN."
+  },
+  {
+    "id": 32,
+    "title": "MoonRing AI",
+    "tag": "GenAI",
+    "intro": "Moon Ring is designed with a crypto economic DePIN model, incentivizing decentralized data contributions and engagement through gamified habit formation and DeFi integration."
+  },
+  {
+    "id": 33,
+    "title": "Allora Network",
+    "tag": "GenAI",
+    "intro": "Allora is self-improving decentralized intelligence built by the community."
+  },
+  {
+    "id": 34,
+    "title": "Power Browser",
+    "tag": "Dapps",
+    "intro": "Power Browser is a fast, secure, and private Web3-based browser that is built on the framework of ad democratization, includes a built-in wallet that allows users to earn rewards."
+  },
+  {
+    "id": 35,
+    "title": "ReadON",
+    "tag": "Dapps",
+    "intro": "ReadON is a Web2-Compatible Decentralized Content Platform, aiming to build the backbone infrastructure for the next generation of blogs, news, and forums."
+  },
+  {
+    "id": 36,
+    "title": "FNS",
+    "tag": "Identity",
+    "intro": "FNS is creating a decentralized personal portal and DID system for Web3 users based on FVM, making the FNS space a more convenient and secure tool for all."
+  },
+  {
+    "id": 37,
+    "title": "Disco.xyz",
+    "tag": "Dapps",
+    "intro": "Disco.xyz offers a groundbreaking solution by introducing the concept of the \"data backpack\" – a virtual repository where users can consolidate their online presence seamlessly."
+  },
+  {
+    "id": 38,
+    "title": "Foresight Ventures",
+    "tag": "Investors",
+    "intro": "Foresight Ventures is dedicated to backing Web3 projects that embody an ethos of decentralization while moving crypto towards long-term, mainstream adoption."
+  },
+  {
+    "id": 39,
+    "title": "UOB Venture Management",
+    "tag": "Investors",
+    "intro": "UOB Venture Management Private Limited is a wholly owned subsidiary of United Overseas Bank Limited, having assets under management in excess of S$2.0 billion."
+  },
+  {
+    "id": 40,
+    "title": "Signum Capital",
+    "tag": "Investors",
+    "intro": "Since 2017, Signum support sgame-changing projects that advance us towards the future of blockchain-enabled socioeconomic transformation."
+  },
+  {
+    "id": 41,
+    "title": "Cogitent Ventures",
+    "tag": "Investors",
+    "intro": "Cogitent was built by a core team of alumni from the UCLA Anderson School of Management, who were united through a common interest in the blockchain world and the new technologies."
+  },
+  {
+    "id": 42,
+    "title": "Gate Labs",
+    "tag": "Investors",
+    "intro": "As an accelerator department started in 2021, Gate Labs is highly devoted to providing entrepreneurs with various resources and aiding startup growth."
+  },
+  {
+    "id": 43,
+    "title": "Laser Digital",
+    "tag": "Investors",
+    "intro": "Laser Digital is a digital asset business backed by Nomura, delivering scalable, robust opportunities across trading, asset management, and ventures in the industry."
+  },
+  {
+    "id": 44,
+    "title": "Candaq Fintech Group",
+    "tag": "Investors",
+    "intro": "Candaq Fintech Group is passionate about supporting startups and have a strong track record of incubating and accelerating startups, redefining the Fintech and Blockchain."
+  },
+  {
+    "id": 45,
+    "title": "Open Digital Infrastructure Group",
+    "tag": "Investors",
+    "intro": "ODIG grew up before the birth of \"BLOCKCHAIN\", focus on cultivating the infrastructure of Web3.0, and invest In Web3.0 startups. ODIG is reshaping digital infrastructure via Web3."
+  },
+  {
+    "id": 46,
+    "title": "Mask Network",
+    "tag": "Investors",
+    "intro": "By bringing the amazing decentralized application ecosystem onto traditional social networks, the Mask extension provides a decentralized option for features Web 2.0 users are familiar with."
+  },
+  {
+    "id": 47,
+    "title": "Kucoin Ventures",
+    "tag": "Investors",
+    "intro": "KuCoin Ventures aims to invest in the most disruptive crypto and blockchain projects of the Web 3.0 era."
+  },
+  {
+    "id": 48,
+    "title": "Dewhales Capital",
+    "tag": "Investors",
+    "intro": "Disruptive crypto-native fund focused on early-stage protocols and fueled by OGs, founders, and key investors."
+  },
+  {
+    "id": 49,
+    "title": "DCI Capital",
+    "tag": "Investors",
+    "intro": "DCI Capital is a venture capital that invests in startups. DCI aims to promote, educate and inspire crypto enthusiasts."
+  },
+  {
+    "id": 50,
+    "title": "Polkastater",
+    "tag": "Investors",
+    "intro": "Access the future of web3 and support the ideas of tomorrow."
+  },
+  {
+    "id": 51,
+    "title": "FoundersHeads",
+    "tag": "Investors",
+    "intro": "Web3 VC with a founder mentality to help you navigate the crypto industry."
+  },
+  {
+    "id": 52,
+    "title": "Contribution Capital",
+    "tag": "Investors",
+    "intro": "VC fund driven by the goal of mass adoption, investing in web3 infrastructure and educating people to ease their transition from web2."
+  },
+  {
+    "id": 53,
+    "title": "Aza Ventures",
+    "tag": "Investors",
+    "intro": "Gem Hunters Turned Venture Capital, Investing in Only Solid FA Projects"
+  },
+  {
+    "id": 54,
+    "title": "BNB Chain Catalyst",
+    "tag": "Grants & Awards",
+    "intro": "The BNB Chain Ecosystem Catalyst Awards will recognize and honor projects that have contributed to the BNB Chain ecosystem."
+  },
+  {
+    "id": 55,
+    "title": "Aptos Grant Dao",
+    "tag": "Grants & Awards",
+    "intro": "The Aptos Grant DAO by DoraHacks is a long-term funding program that supports early-stage projects on the Aptos blockchain, using staking profits to help BUIDLers grow the ecosystem."
+  },
+  {
+    "id": 56,
+    "title": "Boundless Hackathon Stanford",
+    "tag": "Grants & Awards",
+    "intro": "Stanford research team works alongside a large coalition of partners across the blockchain industry, including top protocols, thought leaders, and Stanford alumni startups."
+  },
+  {
+    "id": 57,
+    "title": "PermaDao",
+    "tag": "Grants & Awards",
+    "intro": "PermaDAO is established by a community of some co builders. All of the participants can find their own roles here to contribute to the Arweave ecosystem."
+  },
+  {
+    "id": 58,
+    "title": "everVision",
+    "tag": "Toolings",
+    "intro": "everVision is a technology company focused on providing the infrastructure for Web3 with the vision of sustaining 1 billion users to access the Web3 network."
+  },
+  {
+    "id": 59,
+    "title": "Messari",
+    "tag": "Media/Education",
+    "intro": "Messari believes that crypto will democratize access to information, break down data silos, and ultimately give everyone the tools to build wealth."
+  },
+  {
+    "id": 60,
+    "title": "PANews",
+    "tag": "Media/Education",
+    "intro": "PANews is one of Asia's earliest blockchain media outlets that produces original content with actionable insights in assisting entrepreneurs, founders & c-suites identifying key developments."
+  },
+  {
+    "id": 61,
+    "title": "Foresight News",
+    "tag": "Media/Education",
+    "intro": "Foresight News is an essential calendar of forthcoming news and events, used by media, PR agencies and press offices around the world within Web3 industry."
+  },
+  {
+    "id": 62,
+    "title": "The Block",
+    "tag": "Media/Education",
+    "intro": "The Block is the leading research, analysis and news brand in the digital asset space, empowering smart decisions about the ever-evolving landscape of digital assets."
+  },
+  {
+    "id": 63,
+    "title": "MetaMask",
+    "tag": "Wallet",
+    "intro": "MetaMask is the leading self-custodial wallet. The safe and simple way to access blockchain applications and web3. Trusted by millions of users worldwide."
+  },
+  {
+    "id": 64,
+    "title": "OKX Wallet",
+    "tag": "Wallet",
+    "intro": "OKX Wallet is a decentralized multi-chain wallet that enables you to access and explore the Web3 world, a universal crypto wallet available on multiple platforms, including app, web, and extension."
+  },
+  {
+    "id": 65,
+    "title": "Binance Web3 Wallet",
+    "tag": "Wallet",
+    "intro": "Binance Web3 Wallet is a self-custody crypto wallet within the Binance app, designed to empower users in the realm of decentralized finance (DeFi)."
+  },
+  {
+    "id": 66,
+    "title": "CESS",
+    "tag": "Dapps",
+    "intro": "CESS is the blockchain powered decentralized storage content delivery network infrastructure for Web3 Byzantine-Resistant Circuit with data privacy for distributed AI training."
+  },
+  {
+    "id": 67,
+    "title": "Crust Network",
+    "tag": "Dapps",
+    "intro": "Crust Network is a purpose built layer 1 blockchain providing composable cloud storage solutions for developers, builders and end-users of all ecosystems."
+  },
+  {
+    "id": 68,
+    "title": "Ethereum",
+    "tag": "Blockchain",
+    "intro": "Ethereum is a decentralized blockchain platform that establishes a peer-to-peer network that securely executes and verifies application code, called smart contracts."
+  },
+  {
+    "id": 69,
+    "title": "Arbitrum",
+    "tag": "Blockchain",
+    "intro": "Arbitrum chain is the Layer 2 solution built on top of the Ethereum blockchain, designed to increase scalability, efficiency and reduce transaction costs for users."
+  },
+  {
+    "id": 70,
+    "title": "Bitcoin",
+    "tag": "Blockchain",
+    "intro": "Bitcoin is an innovative payment network and a new kind of money. Bitcoin is open-source, and its design is public, nobody owns or controls Bitcoin and everyone can take part."
+  },
+  {
+    "id": 71,
+    "title": "Polygon",
+    "tag": "Blockchain",
+    "intro": "Polygon is a “layer two” or “sidechain” scaling solution that runs alongside the Ethereum blockchain — allowing for speedy transactions and low fees."
+  },
+  {
+    "id": 72,
+    "title": "Optimism",
+    "tag": "Blockchain",
+    "intro": "Optimism is a Collective of companies, communities, and citizens working together to reward public goods and build a sustainable future for Ethereum."
+  },
+  {
+    "id": 73,
+    "title": "Sui",
+    "tag": "Blockchain",
+    "intro": "Sui is a first-of-its-kind Layer 1 blockchain and smart contract platform designed to make digital asset ownership fast, private, secure, and accessible."
+  },
+  {
+    "id": 74,
+    "title": "Rollkit",
+    "tag": "Toolings",
+    "intro": "Rollkit utilizes the shared security of a modular data availability network to allow anyone to launch their own sovereign, customizable blockchain as easily as a smart contract."
+  },
+  {
+    "id": 75,
+    "title": "Scattering",
+    "tag": "Dapps",
+    "intro": "Scattering aims to assist Arbitrum NFT space natives in enhancing liquidity with the following mission: To enable users to trade NFTs instantly, just like trading ERC-20 tokens."
+  },
+  {
+    "id": 76,
+    "title": "StaFi Protocol",
+    "tag": "Dapps",
+    "intro": "StaFi is the first multi-chain liquid staking protocol that unlocks the liquidity of staked assets. StaFi aims to solve the contradiction between mainnet security and token liquidity in PoS consensus."
+  },
+  {
+    "id": 77,
+    "title": "Trend3",
+    "tag": "Dapps",
+    "intro": "Trend3 is Content as a Service (CaaS), providing business clients with content solutions for long-term user engagement & retention, powered by ReadOn."
+  },
+  {
+    "id": 78,
+    "title": "ViewBlock",
+    "tag": "Dapps",
+    "intro": "ViewBlock was started back in 2018 with the mission to build chain-agnostic explorers and various other easy-to-use tools to help crypto adoption."
+  },
+  {
+    "id": 79,
+    "title": "everPay",
+    "tag": "Dapps",
+    "intro": "everPay is a real-time payment settlement layer that uses the storage computing paradigm, where all calculations are done off-chain and the results are synchronized with Arweave."
+  },
+  {
+    "id": 80,
+    "title": "Web3.storage",
+    "tag": "Toolings",
+    "intro": "Under the hood web3.storage uses UCANs for trustless, local-first authorization, and is backed by the provable storage of IPFS and Filecoin. Open, Reliable and Simple."
+  },
+  {
+    "id": 81,
+    "title": "BNB Greenfield",
+    "tag": "Storage Layers",
+    "intro": "BNB Greenfield is an innovative, blockchain-based decentralized storage network that will enable Web3 cloud computing and a new data economy powered by BNB Chain."
+  },
+  {
+    "id": 82,
+    "title": "X Layer",
+    "tag": "Blockchain",
+    "intro": "X Layer is a ZK-powered layer 2 network that connects the OKX and Ethereum communities to allow anyone to take part in a truly global on-chain ecosystem."
+  },
+  {
+    "id": 83,
+    "title": "Estuary",
+    "tag": "Toolings",
+    "intro": "Estuary is an open source software that allows easy sending of public data to the Filecoin network that can be retrieved from anywhere, empowering decentralized storage."
+  },
+  {
+    "id": 84,
+    "title": "DeGame",
+    "tag": "Dapps",
+    "intro": "DeGame is the world’s largest NFT games aggregator, featuring a comprehensive selection of over 4000 blockchain game projects and 1000+ tokens & chains since 2021."
+  },
+  {
+    "id": 85,
+    "title": "NOWChain",
+    "tag": "Dapps",
+    "intro": "Revolutionizing blockchain with Proof of Mobile (PoM) consensus, putting power in the hands of mobile users worldwide."
+  },
+  {
+    "id": 86,
+    "title": "Othentic",
+    "tag": "Dapps",
+    "intro": "Build AVS in any programming language using configurable building blocks."
+  },
+  {
+    "id": 87,
+    "title": "Filfox",
+    "tag": "Dapps",
+    "intro": "A Filecoin blockchain explorer and data service platform, providing one-stop data services based on Filecoin."
+  },
+  {
+    "id": 88,
+    "title": "Ontology",
+    "tag": "Dapps",
+    "intro": "The high speed, low cost public blockchain bringing decentralized identity and data solutions to Web3."
+  },
+  {
+    "id": 89,
+    "title": "Clique",
+    "tag": "Dapps",
+    "intro": "Improve on-chain UX by 10x with TEE-enabled smart contracts. Attestations. TLS Oracles. Verifiable Compute. Incentive Distribution."
+  },
+  {
+    "id": 90,
+    "title": "Cluster Protocol",
+    "tag": "Dapps",
+    "intro": "Permissionless Co-ordination Layer for AI Agents, a carnot engine fueling the AI economy."
+  },
+  {
+    "id": 91,
+    "title": "Lit Protocol",
+    "tag": "Dapps",
+    "intro": "Lit Protocol is a decentralized platform for keys and private compute. Builders use Lit to make their project autonomous and private."
+  },
+  {
+    "id": 92,
+    "title": "Titan Network",
+    "tag": "Dapps",
+    "intro": "Matching idle community resources with global demand. Easily leverage the power of DePIN and participate in the Internet of Value."
+  },
+  {
+    "id": 93,
+    "title": "Collably Network",
+    "tag": "Dapps",
+    "intro": "Collably Network: Connecting WEB 3.0 Startups with Ideal Partners and Essential resources. Bridge to successful collaborations."
+  },
+  {
+    "id": 94,
+    "title": "Only Layer",
+    "tag": "Dapps",
+    "intro": "Next-Gen Consumer Blockchain Built for everyone. Fast, secure, and scalable with ZK-OPVM tech."
+  },
+  {
+    "id": 95,
+    "title": "Camelot Protocol",
+    "tag": "Dapps",
+    "intro": "Camelot Protocol is building the Orbital Liquidity Network & Arbitrum's largest DEX."
+  },
+  {
+    "id": 96,
+    "title": "Dechat",
+    "tag": "Dapps",
+    "intro": "Dechat is an open, secure web3 communications protocol that powers decentralized user interactions."
+  },
+  {
+    "id": 97,
+    "title": "RapidNode",
+    "tag": "Dapps",
+    "intro": "Node Management Made Simple For Web3 Degens."
+  },
+  {
+    "id": 98,
+    "title": "Mintair",
+    "tag": "Dapps",
+    "intro": "Simplify blockchain participation with our one-click, multichain node running service."
+  }
+]
