@@ -202,7 +202,7 @@ const l_ = (r) => (Ct("data-v-40460f83"), (r = r()), Tt(), r),
                   W(
                     $t,
                     { "show-icon": "" },
-                    { default: Et(() => [jt("Buy DGAI")]), _: 1 }
+                    { default: Et(() => [jt("Buy DEEPGLACIER")]), _: 1 }
                   ),
                 ]),
                 b("a", M_, [
@@ -415,7 +415,7 @@ const l_ = (r) => (Ct("data-v-40460f83"), (r = r()), Tt(), r),
       return (
         pa(async () => {
           const e = await r_();
-            (t.value[0].value = "DGAI"),
+            (t.value[0].value = "DEEPGLACIER"),
             (t.value[1].value = "1 Billion"),
             (t.value[2].value = "LP Burned"),
             (t.value[3].value = "0% Tax"),
@@ -32028,7 +32028,7 @@ const RE = { render: EE },
           "text-center text-3xl md:text-[64px] leading-[1.1em] font-display mt-12",
       },
       [
-        b("div", null, "DeepGlacier Network $DGAI"),
+        b("div", null, "DeepGlacier Network $DEEPGLACIER"),
         b("div", { class: "linear-text" }, "The Core of the DeepGlacier Ecosystem"),
       ],
       -1
@@ -32038,7 +32038,7 @@ const RE = { render: EE },
     b(
       "div",
       { class: "text-center mt-3 text-white/80 text-sm md:text-xl px-5" },
-      " $DGAI is currently listed and live on multiple networks, DEX and CEX. ",
+      " $DEEPGLACIER is currently listed and live on multiple networks, DEX and CEX. ",
       -1
     )
   ),
@@ -32051,7 +32051,7 @@ const RE = { render: EE },
   _4 = ["src"],
   y4 = ["innerHTML"],
   x4 = st({
-    __name: "Buy DGAI",
+    __name: "Buy DEEPGLACIER",
     setup(r) {
       const t = [
         {
