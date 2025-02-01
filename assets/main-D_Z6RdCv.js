@@ -180,7 +180,7 @@ const l_ = (r) => (Ct("data-v-40460f83"), (r = r()), Tt(), r),
     )
   ),
   O_ = { class: "mt-8 flex flex-col md:flex-row gap-5" },
-  B_ = { href: "hhttps://x.com/DeepGlacier_AI", target: "_blank" },
+  B_ = { href: "https://x.com/DeepGlacier_AI", target: "_blank" },
   N_ = Er(() => b("span", null, "Follow X", -1)),
   F_ = { href: "https://t.me/DeepGlacier_Community", target: "_blank" },
   $_ = Er(() => b("span", null, "Join Community", -1)),
