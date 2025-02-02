@@ -106,7 +106,7 @@ const l_ = (r) => (Ct("data-v-40460f83"), (r = r()), Tt(), r),
     3
   ),
   C_ = { class: "flex items-center justify-center gap-3 mt-8" },
-  T_ = { href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000", target: "_blank", class: "flex" },
+  T_ = { href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x12A5dE628DAb66893CAc6b99F99Ff5897F6082F9", target: "_blank", class: "flex" },
   M_ = { href: "https://docs.deepglacierai.pro", target: "_blank", class: "flex" },
   D_ = Er(() =>
     b(
@@ -1523,11 +1523,11 @@ const Yx = ft(zx, [["render", Ux]]),
     class: "flex flex-col md:flex-row items-center justify-center gap-3 mt-5",
   },
   pw = {
-    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x12A5dE628DAb66893CAc6b99F99Ff5897F6082F9",
     target: "_blank",
   },
   gw = Ji(() => b("span", null, "Buy On Uniswap", -1)),
-  mw = { href: "https://etherscan.io/token/0x00000000000000000000000000000000000000", target: "_blank" },
+  mw = { href: "https://etherscan.io/token/0x12A5dE628DAb66893CAc6b99F99Ff5897F6082F9", target: "_blank" },
   _w = Ji(() => b("div", { class: "banner-bg" }, null, -1)),
   yw = Ji(() => b("div", { class: "shadow-box" }, [b("img", { src: Qo })], -1)),
   xw = { class: "px-5" },
