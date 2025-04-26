@@ -106,7 +106,7 @@ const l_ = (r) => (Ct("data-v-40460f83"), (r = r()), Tt(), r),
     3
   ),
   C_ = { class: "flex items-center justify-center gap-3 mt-8" },
-  T_ = { href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000", target: "_blank", class: "flex" },
+  T_ = { href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x797a71bd4d9676d70e578f97032c715b4b1f6355", target: "_blank", class: "flex" },
   M_ = { href: "https://docs.deepglacierai.pro", target: "_blank", class: "flex" },
   D_ = Er(() =>
     b(
@@ -1523,11 +1523,11 @@ const Yx = ft(zx, [["render", Ux]]),
     class: "flex flex-col md:flex-row items-center justify-center gap-3 mt-5",
   },
   pw = {
-    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x797a71bd4d9676d70e578f97032c715b4b1f6355",
     target: "_blank",
   },
   gw = Ji(() => b("span", null, "Buy On Uniswap", -1)),
-  mw = { href: "https://etherscan.io/token/0x00000000000000000000000000000000000000", target: "_blank" },
+  mw = { href: "https://etherscan.io/token/0x797a71bd4d9676d70e578f97032c715b4b1f6355", target: "_blank" },
   _w = Ji(() => b("div", { class: "banner-bg" }, null, -1)),
   yw = Ji(() => b("div", { class: "shadow-box" }, [b("img", { src: Qo })], -1)),
   xw = { class: "px-5" },
@@ -32057,7 +32057,7 @@ const RE = { render: EE },
         {
           icon: a4,
           title: "Uniswap v3<br />(Ethereum)",
-          link: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x00000000000000000000000000000000000000&exactAmount=&exactField=INPUT",
+          link: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x797a71bd4d9676d70e578f97032c715b4b1f6355&exactAmount=&exactField=INPUT",
         },
         {
           icon: i4,
@@ -32098,12 +32098,12 @@ const RE = { render: EE },
         {
           icon: Pd,
           title: "Dexscreener<br />(Base)",
-          link: "https://dexscreener.com/ethereum/0x00000000000000000000000000000000000000",
+          link: "https://dexscreener.com/ethereum/0x797a71bd4d9676d70e578f97032c715b4b1f6355",
         },
         {
           icon: Pd,
           title: "Dexscreener (Ethereum)",
-          link: "https://dexscreener.com/ethereum/0x00000000000000000000000000000000000000",
+          link: "https://dexscreener.com/ethereum/0x797a71bd4d9676d70e578f97032c715b4b1f6355",
         },
       ];
       return (e, i) => (
