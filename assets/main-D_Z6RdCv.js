@@ -106,7 +106,7 @@ const l_ = (r) => (Ct("data-v-40460f83"), (r = r()), Tt(), r),
     3
   ),
   C_ = { class: "flex items-center justify-center gap-3 mt-8" },
-  T_ = { href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x12A5dE628DAb66893CAc6b99F99Ff5897F6082F9", target: "_blank", class: "flex" },
+  T_ = { href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000", target: "_blank", class: "flex" },
   M_ = { href: "https://docs.deepglacierai.pro", target: "_blank", class: "flex" },
   D_ = Er(() =>
     b(
@@ -180,9 +180,9 @@ const l_ = (r) => (Ct("data-v-40460f83"), (r = r()), Tt(), r),
     )
   ),
   O_ = { class: "mt-8 flex flex-col md:flex-row gap-5" },
-  B_ = { href: "https://x.com/DeepGlacier_AI", target: "_blank" },
+  B_ = { href: "https://x.com/DeepGlacierAI", target: "_blank" },
   N_ = Er(() => b("span", null, "Follow X", -1)),
-  F_ = { href: "https://t.me/DeepGlacier_Community", target: "_blank" },
+  F_ = { href: "https://t.me/DeepGlacierAI", target: "_blank" },
   $_ = Er(() => b("span", null, "Join Community", -1)),
   z_ = Er(() => b("img", { src: g_, class: "max-w-[612px] w-full" }, null, -1)),
   H_ = st({
@@ -1523,11 +1523,11 @@ const Yx = ft(zx, [["render", Ux]]),
     class: "flex flex-col md:flex-row items-center justify-center gap-3 mt-5",
   },
   pw = {
-    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x12A5dE628DAb66893CAc6b99F99Ff5897F6082F9",
+    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
     target: "_blank",
   },
   gw = Ji(() => b("span", null, "Buy On Uniswap", -1)),
-  mw = { href: "https://etherscan.io/token/0x12A5dE628DAb66893CAc6b99F99Ff5897F6082F9", target: "_blank" },
+  mw = { href: "https://etherscan.io/token/0x00000000000000000000000000000000000000", target: "_blank" },
   _w = Ji(() => b("div", { class: "banner-bg" }, null, -1)),
   yw = Ji(() => b("div", { class: "shadow-box" }, [b("img", { src: Qo })], -1)),
   xw = { class: "px-5" },
@@ -32057,7 +32057,7 @@ const RE = { render: EE },
         {
           icon: a4,
           title: "Uniswap v3<br />(Ethereum)",
-          link: "https://app.uniswap.org/swap?outputCurrency=0x68e2e5c9dff32419a108713f83274a4fb5e194ca",
+          link: "https://app.uniswap.org/swap?outputCurrency=0x00000000000000000000000000000000000000",
         },
         {
           icon: i4,
@@ -32103,7 +32103,7 @@ const RE = { render: EE },
         {
           icon: Pd,
           title: "Dexscreener (Ethereum)",
-          link: "https://dexscreener.com/ethereum/0x9b146ea3ac0d33e1682d64b92725797c8111e606",
+          link: "https://dexscreener.com/ethereum/0x00000000000000000000000000000000000000",
         },
       ];
       return (e, i) => (
