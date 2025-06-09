@@ -814,15 +814,15 @@ const ss = { render: rs },
             children: [
               {
                 title: "Etherscan",
-                href: "https://etherscan.io/token/0x29ce5f03961033fed9f334949898b5bfe438be4b",
+                href: "https://etherscan.io/token/0xee97f8821ecab2f37391d9ce9c85ef186925679b",
               },
               {
                 title: "Dextools",
-                href: "https://www.dextools.io/app/en/ether/pair-explorer/0x29ce5f03961033fed9f334949898b5bfe438be4b",
+                href: "https://www.dextools.io/app/en/ether/pair-explorer/0xee97f8821ecab2f37391d9ce9c85ef186925679b",
               },
               {
                 title: "Dexscreener",
-                href: "https://dexscreener.com/ethereum/0x29ce5f03961033fed9f334949898b5bfe438be4b",
+                href: "https://dexscreener.com/ethereum/0xee97f8821ecab2f37391d9ce9c85ef186925679b",
               },
             ],
           },
@@ -1312,10 +1312,10 @@ const Zs = { render: Qs },
           {
             title: "DEEP Token",
             items: [
-              { title: "Etherscan", href: "https://etherscan.io/token/0x29ce5f03961033fed9f334949898b5bfe438be4b" },
-              { title: "Uniswap", href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x29ce5f03961033fed9f334949898b5bfe438be4b" },
-              { title: "Dexscreener", href: "https://dexscreener.com/ethereum/0x29ce5f03961033fed9f334949898b5bfe438be4b" },
-              { title: "Dextools", href: "https://www.dextools.io/app/en/ether/pair-explorer/0x29ce5f03961033fed9f334949898b5bfe438be4b" },
+              { title: "Etherscan", href: "https://etherscan.io/token/0xee97f8821ecab2f37391d9ce9c85ef186925679b" },
+              { title: "Uniswap", href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xee97f8821ecab2f37391d9ce9c85ef186925679b" },
+              { title: "Dexscreener", href: "https://dexscreener.com/ethereum/0xee97f8821ecab2f37391d9ce9c85ef186925679b" },
+              { title: "Dextools", href: "https://www.dextools.io/app/en/ether/pair-explorer/0xee97f8821ecab2f37391d9ce9c85ef186925679b" },
             ],
           },
           { title: "Community", items: ct },
