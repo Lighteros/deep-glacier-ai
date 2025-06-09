@@ -801,7 +801,7 @@ const ss = { render: rs },
               },
               {
                 title: "Verifier Nodes",
-                desc: "Earn DEEPGLC on Mainnet",
+                desc: "Earn DEEP on Mainnet",
                 icon: j(ss),
                 href: "/nodes",
               },
@@ -810,7 +810,7 @@ const ss = { render: rs },
           { title: "Ecosystem", href: "/eco" },
           { title: "Document", href: "https://docs.deepglacierai.pro" },
           {
-            title: "DEEPGLC Token",
+            title: "DEEP Token",
             children: [
               {
                 title: "Etherscan",
@@ -1310,7 +1310,7 @@ const Zs = { render: Qs },
             ],
           },
           {
-            title: "DEEPGLC Token",
+            title: "DEEP Token",
             items: [
               { title: "Etherscan", href: "https://etherscan.io/token/0x29ce5f03961033fed9f334949898b5bfe438be4b" },
               { title: "Uniswap", href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x29ce5f03961033fed9f334949898b5bfe438be4b" },
